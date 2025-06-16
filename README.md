@@ -6,7 +6,7 @@ This project demonstrates an agentic task planner-reflector-executor loop using 
 - LangGraph-based agentic workflow
 - Built-in planner, executor, and feedback loop
 - Open-source and runs entirely in Colab
-- No API key required (uses HuggingFace transformers)
+- Uses HuggingFace transformers
 
 ## 📔 Notebook Preview
 https://colab.research.google.com/drive/11RUUbC_VUY6AMJ6jsl-8g0oMaFwjv9Ck?usp=sharing
